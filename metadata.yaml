@@ -1,11 +1,16 @@
 _repo: Fogsagom-tortenete_66662
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Deák, Farkas
     gutenberg_agent_id: '53905'
     url: http://www.gutenberg.org/2009/agents/53905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66662#Fogsagom-tortenete
 gutenberg_issued: '2021-11-04'
 identifiers:
   gutenberg: '66662'
